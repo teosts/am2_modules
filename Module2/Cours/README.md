@@ -7,7 +7,7 @@ Cours interactif en notebooks Jupyter (noyau **R (AM2)**), construit à partir d
 - l'article *Chimiométrie 2006* (concours dont proviennent les données de sols) ;
 - les scripts `pca_fatty_acids.R`, `pcr_fatty_acids.R`, `pls_fatty_acids.R` et `homework2.R`.
 
-Voir `../../README_environnement.md` pour configurer VS Code (noyau « R (AM2) »).
+Voir `../../README.md` pour installer l'environnement et ouvrir les notebooks (noyau « R (AM2) »).
 
 ## Parcours
 

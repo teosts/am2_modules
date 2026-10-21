@@ -2,7 +2,7 @@
 
 Cours interactif en notebooks Jupyter (noyau **R (AM2)**), construit à partir de **tous** les documents du module : slides 2026-2027, syllabus `module1.pdf`, résolution *lactoferrin 24-25*, cheatsheet, scripts `ex1.r`, `ex1_v2.R`, `training.R`, `Homework1/homework1.R`, ainsi que la correction officielle du homework (`Homework1/fatty_acids_20201006.Rmd`) et le script de la séance TP (`Homework1/2026_AMV2_module1.R`).
 
-Voir `../../README_environnement.md` pour configurer VS Code.
+Voir `../../README.md` pour installer l'environnement et ouvrir les notebooks (JupyterLab ou VS Code).
 
 ## Parcours
 
