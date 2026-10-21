@@ -1,0 +1,15 @@
+/*
+!/.gitignore
+!/README.md
+!/README_environnement.md
+!/Module*/
+/Module*/*
+!/Module*/Cours/
+/Module*/Cours/*
+!/Module*/Cours/*.ipynb
+!/Module*/Cours/README.md
+!/Module*/*.csv
+!/Module*/*.txt
+!/Module1/Homework1/
+/Module1/Homework1/*
+!/Module1/Homework1/fatty_acids.csv
